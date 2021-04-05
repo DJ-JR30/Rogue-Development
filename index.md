@@ -1,3 +1,3 @@
-## Welcome to Rogue Diamond
+# Welcome to Rogue Diamond
 
 [Animated Forest]()
