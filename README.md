@@ -6,4 +6,4 @@ Custom themes and plugins.
 
 |Name|Link|
 |----|----|
-|Luxery|[Here]()|
+|Luxery|[Here](https://github.com/DJ-JR30/Rogue-Development/tree/main/Themes/Luxury)|
