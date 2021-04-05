@@ -1,0 +1,194 @@
+@import url(https://raw.githubusercontent.com/DJ-JR30/ACE-BetterDiscord/gh-pages/BetterDiscord/ACEproductions/Theme/Streaming/BetterDiscord/Files/RadialStatus.css);
+
+
+:root {
+    --Background-color: rgba(24,24,24,0.4);
+    --background-image: url(https://raw.githubusercontent.com/DJ-JR30/Rogue-Development/main/Themes/Animated%20Nature/imgs/Nature_Forest.gif);
+	 --Link-Color: ();
+}
+
+
+/*Transparency*/
+.da-container, .da-wrapper, .da-base, .da-layer,
+.da-layers, .da-sidebar, .da-app, .da-chat,
+.da-content, .da-embedFull, .da-scroller,
+.da-panels, .da-nowPlayingColumn,
+.da-privateChannels, .da-applicationStore, .da-contentRegion,
+.da-standardSidebarView, .da-contentRegionScroller,
+.da-sidebarRegionScroller, .da-members, .da-inset,
+.da-systemPad, .content-region, .content-region-scroller,
+.da-form:before {
+    background: rgba(24,24,24,0.05) !important;
+	 border: 0px;
+}
+
+/* Background */
+.bg-h5JY_x{
+    background:var(--background-image);
+	 background-size: cover;
+	 background-repeat: no-repeat;
+}
+
+/* Folders */
+.expandedFolderBackground-1cujaW {
+    background: var(--Background-color) !important;
+	 border: 0px;
+}
+.closedFolderIconWrapper-2sTcE6 {
+    background: var(--Background-color) !important;
+	 border: 0px;
+}
+
+/* Embed Panels */
+.container-1ov-mD {
+    background: var(--Background-color) !important;
+	 border: 0px;
+}
+
+/* Links */
+.anchorUnderlineOnHover-2ESHQB {
+    background-color: rgba(24,24,24,0.3);
+    text-decoration: underline;
+}
+
+
+/* Bttom Left User Tag */
+.subtext-3CDbHg {
+    filter: blur(5px);
+}
+.subtext-3CDbHg:hover {
+    filter: blur(0px);
+}
+
+
+/* Settings Profile */
+.background-1QDuV2 {
+    background: var(--Background-color) !important;
+	 border: 0px;
+}
+.fieldList-21DyL8 {
+    background: var(--Background-color) !important;
+	 border: 0px;
+}
+.colorHeaderSecondary-3Sp3Ft {
+    filter: blur(5px);
+}
+.colorHeaderSecondary-3Sp3Ft:hover {
+    filter: blur(0px);
+}
+
+
+/* Slided Members List */
+.membersWrap-2h-GB4:not(#dv-mount),.membersWrap-2h-GB4:not(#dv-mount) > div{
+	min-width:60px!important;
+	max-width:240px!important;
+	width:60px;
+  transition: width .5s;
+}
+
+.membersWrap-2h-GB4:hover:not(#dv-mount),.membersWrap-2h-GB4:hover:not(#dv-mount) > div{
+	width:240px;
+	transition: width .6s;
+}
+
+#dv-main .dv-date{
+  white-space: normal;
+}
+
+
+/*Authorized Apps*/
+.item-PXvHYJ:nth-child(4) {
+    display: none;
+}
+/*Billing*/
+.item-PXvHYJ:nth-child(6) {
+    display: none;
+}
+/*Discord Nitro*/
+.item-PXvHYJ:nth-child(8) {
+    display: none;
+}
+/*Gift Inventory*/
+.item-PXvHYJ:nth-child(9) {
+    display: none;
+}
+/*Server Boost*/
+.item-PXvHYJ:nth-child(10) {
+    display: none;
+}
+/*HypeSquad*/
+.item-PXvHYJ:nth-child(11) {
+    display: none;
+}
+
+
+
+/* Privacy & Safety */
+.item-26Dhrx {
+    background: rgba(24,24,24,0.1) !important;
+	 border: 0px;
+}
+.marginBottom40-2vIwTv {
+    background: rgba(24,24,24,0.1) !important;
+	 border: 0px;
+	 border-radius: 6px;
+}
+.colorStandard-2KCXvj {
+    color: white;
+}
+.formNotice-2_hHWR {
+    background: rgba(24,24,24,0.1) !important;
+	 border: 0px;
+}
+
+
+/* Connections */
+.accountList-23MS45 {
+    background: rgba(24,24,24,0.1) !important;
+	 border: 0px;
+}
+.connection9fbD7X {
+    background: rgba(24,24,24,0.1) !important;
+	 border: 0px;
+}
+
+
+/* Appearance */
+.cardPrimaryOutline-39Ujqw {
+    background: rgba(24,24,24,0.1) !important;
+	 border: 0px;
+}
+
+
+/* Accessibility */
+.checkboxWrapper-SkhIWG {
+    background: rgba(24,24,24,0.1) !important;
+	 border: 0px;
+	 border-radius: 5px;
+}
+.labelRow-16e77k {
+    background: rgba(24,24,24,0.1) !important;
+	 border: 0px;
+	 border-radius: 5px;
+}
+
+
+/* Voice & Video */
+.notches-2sAcEM {
+    background: rgba(24,24,24,0.1) !important;
+	 border: 0px;
+	 border-radius: 5px;
+}
+
+
+/* Notificayions */
+.css-3vaxre-menu {
+    background: rgba(24,24,24,0.7) !important;
+	 border: 0px;
+}
+
+/* Ext */
+.userSettingsSecurity-3IYeMF, .divider-3573oO, .marginTop40-i-78cZ {
+    display: none;
+}
+
