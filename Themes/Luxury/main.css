@@ -1,9 +1,13 @@
-/* Hide GIF button */
-.buttons-3JBrkn button+div {
-  display: none;
-}
-
-/* Hide Gift button and keep translate button */
-.buttons-3JBrkn > .button-38aScr > :not(.translateButton-DhP9x8) {
-  display: none;
+/*Transparency*/
+.da-container, .da-wrapper, .da-base, .da-layer,
+.da-layers, .da-sidebar, .da-app, .da-chat,
+.da-content, .da-embedFull, .da-scroller,
+.da-panels, .da-nowPlayingColumn,
+.da-privateChannels, .da-applicationStore, .da-contentRegion,
+.da-standardSidebarView, .da-contentRegionScroller,
+.da-sidebarRegionScroller, .da-members, .da-inset,
+.da-systemPad, .content-region, .content-region-scroller,
+.da-form:before {
+    background: rgba(24,24,24,0.05) !important;
+	 border: 0px;
 }
