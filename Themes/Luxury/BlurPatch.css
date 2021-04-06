@@ -3,6 +3,6 @@
 */
 
 .channel-1TmDQ6 {
-  filter: blur(0px);
+  filter: blur(0px) !important;
 }
 
