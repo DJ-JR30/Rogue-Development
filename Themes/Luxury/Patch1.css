@@ -1,0 +1,8 @@
+/* 
+* This patch unblur stuff that didn't mean to get blured.
+*/
+
+.channel-1TmDQ6 {
+  filter: blur(0px);
+}
+
