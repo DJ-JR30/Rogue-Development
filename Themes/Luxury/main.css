@@ -13,15 +13,15 @@
 .da-systemPad, .content-region, .content-region-scroller,
 .da-form:before {
     background: rgba(24,24,24,0.05) !important;
-	 border: 0px;
+    border: 0px;
 }
 
 
 /* Background */
 .bg-h5JY_x{
     background:var(--background-image);
-	 background-size: cover;
-	 background-repeat: no-repeat;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 /* Embed Panels */
@@ -33,3 +33,15 @@
 .layer-v19HyYc {
     background: rgba(24,24,24,0.1);
 }
+
+/* Folders */
+.expandedFolderBackground-1cujaW {
+    background: rgba(24,24,24,0.05) !important;
+	 border: 0px;
+}
+.closedFolderIconWrapper-2sTcE6 {
+    background: rgba(24,24,24,0.05) !important;
+	 border: 0px;
+}
+
+
