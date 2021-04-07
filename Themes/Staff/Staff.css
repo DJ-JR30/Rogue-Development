@@ -1,0 +1,25 @@
+.bd-addon-card {
+  background-color: rgba(24,24,24,0.4);
+}
+
+/* Settings Profile */
+.background-1QDuV2 {
+    background: rgba(24,24,24,0.4) !important;
+	 border: 0px;
+}
+.fieldList-21DyL8 {
+    background: rgba(24,24,24,0.4) !important;
+	 border: 0px;
+}
+.colorHeaderSecondary-3Sp3Ft {
+    filter: blur(5px);
+}
+.colorHeaderSecondary-3Sp3Ft:hover {
+    filter: blur(0px);
+}
+
+/* Embed Panels */
+.container-1ov-mD {
+    background: var(--Background-color) !important;
+	 border: 0px;
+}
