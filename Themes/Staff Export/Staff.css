@@ -1,0 +1,55 @@
+/**
+ * @name Staff
+ * @author KingJacks
+ * @version 1.0.0
+ * @description An optimized, consistent, and functional theme for Discord based on GitHub's design language called Slate
+*/
+
+@import url('https://discordstyles.github.io/AdjustableServerWidth/base.css');
+@import url('https://discordstyles.github.io/Slate/base.css');
+
+@import url(https://dj-jr30.github.io/Rogue-Development/Themes/Staff/ImportModif.css);
+
+:root {
+  --accent: 0,68,144;
+  --link-colour: 107,176,255;
+  --server-icon-size: 28px;
+  --server-icon-spacing: 8px;
+  --server-container-padding: 5px;
+  --base-border: #ffffff;
+  --text-normal: #b0b0b0;
+  --text-muted: #0057ad;
+  --text-focus: #db004a;
+  --background: #1d2125;
+  --background-alt: #1d2125;
+  --background-light: #1d2125;
+  --background-dark: #1d2125;
+  --background-modifier-hover: #000000;
+  --background-modifier-active: #000000;
+  --background-modifier-selected: #000000;
+  --border-radius: 3px;
+  --button-border-radius: 1px;
+  --avatar-radius: 10px;
+  --server-radius: 8.5px;
+  --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
+  --font-family-monospace: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  --toolbar-height: 39px;
+  --toolbar-text-normal: #d1d5da;
+  --toolbar-text-muted: #959da5;
+  --toolbar-text-focus: #ffffff;
+  --toolbar-background: #1d2125;
+  --toolbar-background-hover: #2f363d;
+  --toolbar-background-active: #444d56;
+  --toolbar-background-alt: #24292e;
+  --toolbar-border: #141414;
+  --toolbar-search-background: #161a1d;
+  --toolbar-search-border: var(--toolbar-border);
+  --sidebar-width: 190px;
+  --member-height: 34px;
+  --cursor: cursor;
+  --status-green: 40, 167, 69;
+  --status-yellow: 219, 171, 9;
+  --status-red: 215, 58, 73;
+  --status-purple: 89, 54, 149;
+  --status-grey: 117, 128, 142;
+}
