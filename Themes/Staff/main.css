@@ -1,0 +1,26 @@
+
+:root {
+    --background-image: url(https://github.com/DJ-JR30/Rogue-Development/blob/main/Themes/Luxury/imgs/Lambo_smoke.gif?raw=true);
+}
+
+/*Transparency*/
+.da-container, .da-wrapper, .da-base, .da-layer,
+.da-layers, .da-sidebar, .da-app, .da-chat,
+.da-content, .da-embedFull, .da-scroller,
+.da-panels, .da-nowPlayingColumn,
+.da-privateChannels, .da-applicationStore, .da-contentRegion,
+.da-standardSidebarView, .da-contentRegionScroller,
+.da-sidebarRegionScroller, .da-members, .da-inset,
+.da-systemPad, .content-region, .content-region-scroller,
+.da-form:before {
+    background: rgba(24,24,24,0.05) !important;
+    border: 0px;
+}
+
+
+/* Background */
+.bg-h5JY_x{
+    background:var(--background-image);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
