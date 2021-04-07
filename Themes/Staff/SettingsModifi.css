@@ -1,1 +1,7 @@
-
+/* Bottom Left User Discriminator */
+.subtext-3CDbHg {
+    filter: blur(5px);
+}
+.subtext-3CDbHg:hover {
+    filter: blur(0px);
+}
