@@ -1,4 +1,4 @@
-# Rogue Diamond
+# Rogue Development
 
 Custom themes and plugins.
 
